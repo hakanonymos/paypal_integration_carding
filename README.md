@@ -2,7 +2,9 @@
 paypal pro integration for carding I am not responsible for your actions
 
 extract the vendor.zip file
+
 open 
+
 charge.php
 
 set your paypal infos
