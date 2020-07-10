@@ -1,5 +1,5 @@
 # paypal_integration_carding
-paypal pro integration for carding I am not responsible for your actions
+paypal pro integration for carding(cc cashout ) I am not responsible for your actions
 
 recharge your paypal account with a bank card
 
