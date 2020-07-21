@@ -4,7 +4,7 @@ paypal pro integration for carding(cc cashout ) I am not responsible for your ac
 recharge your paypal account with a bank card
 
 
-extract the vendor.zip file
+# extract the " vendor.zip file "
 
 open 
 
