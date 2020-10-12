@@ -20,8 +20,11 @@ HAPPY CARDING
 https://youtu.be/c8Lk9vVB8_g
 
 
-# CONTACT
 
 hakanonymos@hotmail.com
 
-Whatsapp : +1 315 636 6596
+instagram : hakanonymos
+
+skype : hakanonymos
+
+Whatsapp: +1 336 415 3487
