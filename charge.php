@@ -4,8 +4,8 @@ require_once "vendor/autoload.php";
 use Omnipay\Omnipay;
  
 $gateway = Omnipay::create('PayPal_Pro');
-$gateway->setUsername('you usernam ');
-$gateway->setPassword('your password');
+$gateway->setUsername('your usernam '); //set your usernam here 
+$gateway->setPassword('your password'); //set your password here 
 $gateway->setSignature
 ('your signature ');
 $gateway->setTestMode(false); // here 'true' is for sandbox. Pass 'false' when go live
