@@ -24,7 +24,3 @@ https://youtu.be/c8Lk9vVB8_g
 hakanonymos@hotmail.com
 
 instagram : hakanonymos
-
-skype : hakanonymos
-
-Whatsapp: +1 336 415 3487
